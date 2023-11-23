@@ -18,6 +18,7 @@
 - [Yusuf Kartal] (https://github.com/yAquila)
 - [Thein Htet Oo] (https://github.com/theinhtet00)
 - [Sharath chandran] (https://github.com/k00sharath)
+- [bvince21] (https://github.com/bvince21)
 - [CrisitoJ] (https://github.com/CrisitoJ)
 - [Nabin Chandra Maiti] (https://github.com/nabin3)
 - [Hamza Haji] (https://github.com/hamzambo)
